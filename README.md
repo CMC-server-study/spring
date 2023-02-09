@@ -1,7 +1,11 @@
 # 🌳 CMC 11기 서버 스프링 뿌시기 🌳
 
 ## 👩🏻‍💻 Member
-
+- [동](https://github.com/ruthetum)
+- [면지](https://github.com/rladuswl)
+- [모카](https://github.com/jemlog)
+- [미나](https://github.com/minaamim)
+- [바리](https://github.com/suyeoniii)
 
 ## 📚 Plan
 |No.|주제|담당자|
